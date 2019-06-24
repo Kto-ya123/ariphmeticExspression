@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1561109234 source:/home/ITRANSITION.CORP/a.luzgin/example/ArithmeticExpression/main.cpp
+	<deque>
+
+1561109313 source:/home/ITRANSITION.CORP/a.luzgin/example/ArithmeticExpression/main2.cpp
+	<iostream>
+	<deque>
+
